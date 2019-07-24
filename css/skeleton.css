@@ -1,0 +1,10 @@
+*{
+  margin:0;
+  padding:0;
+}
+.bgimage{
+  background-image: url(..file:///Users/amandazhao/Desktop/background:homepage.JPEG);
+  height:100px;
+  background-size: cover;
+  background-position: center;
+}
